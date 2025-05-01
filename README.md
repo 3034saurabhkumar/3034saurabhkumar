@@ -93,7 +93,7 @@
 
 <p align="center">
   <a href="https://github.com/3034saurabhkumar">
-    <img height="150" width="175" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/left.png">
+<!--     <img height="150" width="175" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/left.png"> -->
     <a href="https://streak-stats.demolab.com/?user=3034saurabhkumar&theme=dark" title="Go to Source">
       <img
         align="center"
@@ -102,7 +102,7 @@
         alt="Saurabh"
       />
     </a>
-    <img height="150" width="175" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/right.png">
+<!--     <img height="150" width="175" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/right.png"> -->
   </a>
 </p>
 
@@ -145,7 +145,7 @@
 ---
 
 <p align="center">
-  <h3 align="center"> Take a moment to explore and appreciate the hard work by giving their repositories a star❤️!!!!</h3>
+  <h3 align="center"> Take a moment to explore and appreciate the hard work by giving repositories a star❤️!!!!</h3>
  </p>
 
 <img align="center" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/footer.png" />
