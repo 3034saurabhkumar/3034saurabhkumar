@@ -10,7 +10,7 @@
    I'm always eager to explore new ideas and technologies, and I believe in the power of community-driven development to create impactful solutions. Let's connect and work together to make a difference!
   </em>
 </p>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
 
 
 <h1>
