@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    Hi there 👋, I'm <b>Saurabh Kumar</b>. I'm a <b>Software Developer</b> & a <b> keen learner </b> who is passionate about contributing to <b>open-source projects</b>, developing <b>Android & Web applications</b>, creating technology to elevate people, and building <b>community</b>.
+       👋 Hello, I'm <b>Saurabh Kumar</b>. As a dedicated <b>Software Developer</b> and an <b>enthusiastic learner</b>, My interests lie in <b>developing Android and Web applications</b>, as well as creating innovative technologies that aim to elevate the lives of individuals. Additionally.
+
+   I'm always eager to explore new ideas and technologies, and I believe in the power of community-driven development to create impactful solutions. Let's connect and work together to make a difference!
   </em>
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
