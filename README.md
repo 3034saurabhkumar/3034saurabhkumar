@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1>
   Connect With Me <a target="_blank">
-  <img src="https://github.com/anotherwebguy/anotherwebguy/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  <img src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h1>
 
@@ -102,17 +102,17 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <a href="https://github.com/anotherwebguy">
-    <img height="150" width="175" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/left.png">
+  <a href="https://github.com/3034saurabhkumar">
+    <img height="150" width="175" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/left.png">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img
         align="center"
         width="396" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=3034saurabhkumar&theme=react&border=61dafb&hide_border=true"
-        alt="Mohit"
+        alt="Saurabh"
       />
     </a>
-    <img height="150" width="175" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/right.png">
+    <img height="150" width="175" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/right.png">
   </a>
 </p>
 
@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   <h3 align="center"> Take a moment to explore and appreciate the hard work by giving their repositories a star❤️!!!!</h3>
  </p>
 
-<img align="center" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/footer.png" />
+<img align="center" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/footer.png" />
 
 
 
