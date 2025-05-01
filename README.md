@@ -1,13 +1,7 @@
-<!-- <img align="center" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/output2.png" /> -->
+<img align="center" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/header.png" />
 
 
 ### Hi there, I'am Saurabh 👋
-
-<!--
-**anotherwebguy/anotherwebguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 <p>
   <em>
