@@ -94,7 +94,7 @@
 <p align="center">
   <a href="https://github.com/3034saurabhkumar">
     <img height="150" width="175" src="https://github.com/3034saurabhkumar/3034saurabhkumar/blob/main/left.png">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://streak-stats.demolab.com/?user=3034saurabhkumar&theme=dark" title="Go to Source">
       <img
         align="center"
         width="396" 
