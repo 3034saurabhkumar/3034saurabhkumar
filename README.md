@@ -80,7 +80,7 @@
 
 <h1 align="center">
   <br/>
-    <code align="center"> :Github Profile Stats:</code>
+    <code align="center"> Github Profile Stats</code>
 </h1>
 
 <div align="center">
