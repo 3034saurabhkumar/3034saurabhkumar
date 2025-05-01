@@ -78,7 +78,7 @@
 
 <h1 align="center">
   <br/>
-    <code align="center"> Github Profile Stats</code>
+    <code align="center"> Github Profile Statistics</code>
 </h1>
 
 <div align="center">
